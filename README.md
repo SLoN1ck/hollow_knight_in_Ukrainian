@@ -5,20 +5,20 @@ Ukrainian translation for the Hollow Knight game via Language Support mode (http
 
 ![promo](https://user-images.githubusercontent.com/6781574/131626755-3d2c92fb-d685-4bf3-9a70-cb21e61ef528.jpg)
 
-**Відеоінструкція (Youtube):**
-
-[![logo_concept4_small](https://user-images.githubusercontent.com/6781574/131629290-f09841b9-3006-421c-9549-11b624547dc3.png)](https://www.youtube.com/watch?v=koQvD7k7eYc)
-
 **Наразі перекладені наступні розділи (переклад оновлюється та доповнюється) :**
 - Головне меню
 
 Для оновлення перекладу повторіть пункти 5-7 з інструкції по встановленню, наведеної нижче
 
+# **Відеоінструкція (Youtube):**
+
+[![logo_concept4_small](https://user-images.githubusercontent.com/6781574/131629290-f09841b9-3006-421c-9549-11b624547dc3.png)](https://www.youtube.com/watch?v=koQvD7k7eYc)
+
 **Необхідні вимоги:**
 1) Ліцензована PC версія гри Hollow Knight (наразі протестовано в Steam)
 2) Бажання грати улюблену гру солов'їною.
 
-**Інструкція по встановленню (Steam):**
+# **Інструкція по встановленню (Steam):**
 1) Скинути гру на патч 1.4.3.2:
 
 ![boiTgYuc1W](https://user-images.githubusercontent.com/6781574/131621354-38b39345-4449-46a2-8dc8-e2baf2589c87.gif)

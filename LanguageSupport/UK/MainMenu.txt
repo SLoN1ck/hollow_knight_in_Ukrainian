@@ -99,7 +99,7 @@
 <entry name="PAUSE_CONTINUE">Продовжити</entry>
 <entry name="LANG_PT">Português (Brasil)</entry>
 <entry name="GAME_CONTROLLER_RUMBLE">Вібрація</entry>
-<entry name="NORMAL_MODE_TEXT">Нормальний ігровий режим.</entry>
+<entry name="NORMAL_MODE_TEXT">Стандартний ігровий режим.</entry>
 <entry name="ACHIEVEMENTS_BASE_SET_TITLE">Досягнення Hollow Knight</entry>
 <entry name="PROFILE_NEW_GAME">Нова гра</entry>
 <entry name="DESC_NATIVE_ACHIEVEMENTS">Показати ігрове сповіщення після здобутого досягнення.</entry>

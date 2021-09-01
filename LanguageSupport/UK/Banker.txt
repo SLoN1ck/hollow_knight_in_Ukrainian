@@ -1,0 +1,20 @@
+<entries>
+<entry name="BANKER_BALANCE_ZERO">I--I&#39;ve nothing left...I ahhh, I suppose, ahh, you might be on your way now then?&lt;page&gt;Y-y-yes, I think that would be b-best...</entry>
+<entry name="BANKER_GREET">Hello dearie! Keen to do some banking?</entry>
+<entry name="BANKER_FAREWELL">Goodbye then. Stay safe.</entry>
+<entry name="BANKER_ACCT_NOTENOUGH">Oh, hang on. You don&#39;t have enough Geo to buy an account, sadly. Once you&#39;ve collected 100 Geo, come straight back and we&#39;ll get your account opened up.</entry>
+<entry name="BANKER_DEPOSIT">Well done dearie! I&#39;ll keep your Geo safe. </entry>
+<entry name="BANKER_ACCT_OPEN">You&#39;re a smart one. Next time some dreadful beastie gets the best of you, you&#39;ll be glad to know your Geo&#39;s safe within my shel- errr...my vault.&lt;page&gt;Now let&#39;s do some banking.</entry>
+<entry name="BANKER_SPA_GREET">Wah? Oh... you- you&#39;re back. I just thought, when you left, that was the last I&#39;d... ahh... see of you.&lt;page&gt;It&#39;s just... ahh... your Geo issue. You should know, it was a big stress on me as well. Such a stress in fact, that I&#39;ve left the banking game for good.</entry>
+<entry name="BANKER_SPA_MEET">Oh...A-ah, hello again d-dearie. Fancy running into you he-here.&lt;page&gt;Is it your Geo you&#39;re after? We-ll you see, it&#39;s ahhhhh. It&#39;s a sad thing, but...It&#39;s gone. All spent.&lt;page&gt;The cost of running a bank can be high, so I had to charge a somewhat large service fee to your account.&lt;page&gt;Perfectly legitimate, of course. Just part of the whole banking deal...ah ha ha...ha.&lt;page&gt;But...ahh..thank you so much for visiting me, and run along now won&#39;t you. If you allow me some privacy, I&#39;ll be done here soon. Then you can have the spa all to yourself.</entry>
+<entry name="BANKER_DREAM">...When next to return to that delightful spa?...The waters so ease the tension in my shell...</entry>
+<entry name="BANKER_SPA_REPEAT">...No h-hard feelings, okay?</entry>
+<entry name="BANKER_ACCT_DECLINE_AGAIN">Still not interested? You&#39;re far too hesitant. Make bold decisions and follow them through, that&#39;s the trick to seeing your Geo grow. </entry>
+<entry name="BANKER_MEET">Hello there dearie. I was about to close up shop and run, till you came along. I provide a banking service if you&#39;re interested.&lt;page&gt;Losing one&#39;s Geo is a terrible thing and it&#39;s so much more likely if you carry it about on yourself.&lt;page&gt;My vault is much more secure. In all my time as a banker, I&#39;ve never lost a single Geo!&lt;page&gt;Maybe you&#39;d considered opening an account?</entry>
+<entry name="BANKER_DREAM_SPA">...Oohh no... Leave me be, creepy little thing...</entry>
+<entry name="BANKER_CANCEL">Changed your mind? Well, come back any time.</entry>
+<entry name="BANKER_REMEET">Have you reconsidered opening an account? Losing Geo is a terrible thing.&lt;page&gt;You&#39;ll be much more confident out there in the big, dangerous world, knowing it&#39;s safe with me.</entry>
+<entry name="BANKER_WITHDRAW">Thanks for the withdrawal. Don&#39;t go spending it all at once!</entry>
+<entry name="BANKER_BALANCE_ZERO_REPEAT">...I think I might j-j-just rest right here a little while. Yes I think that would be best.</entry>
+<entry name="BANKER_ACCT_DECLINE">I understand. It&#39;s difficult to part with hard won Geo. I&#39;ll be here if you change your mind.</entry>
+</entries>

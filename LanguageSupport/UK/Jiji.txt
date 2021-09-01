@@ -1,0 +1,36 @@
+<entries>
+<entry name="SHADE_OFFER">I can return your regrets to you, if you share your delicious food with me.</entry>
+<entry name="ABYSS">Yes, I can see the regrets you&#39;ve left behind. Only faintly though... a black stain deep below the world, surrounded by darkness. Almost a part of it...</entry>
+<entry name="KINGS_PASS">Yes, I can see the regrets you&#39;ve left behind. A dark stain nearby, right at the entrance to this kingdom.</entry>
+<entry name="WATERWAYS">Yes, I can see the regrets you&#39;ve left behind. A dark stain surrounded by pipes and running water. It can not be washed away, though...</entry>
+<entry name="HIVE">Yes, I can see the regrets you&#39;ve left behind. A dark stain surrounded by golden light, in a hive far away from here.</entry>
+<entry name="SHAMAN_TEMPLE">Yes, I can see the regrets you&#39;ve left behind. A dark stain in an ancestral mound... a place of strange worships.</entry>
+<entry name="SHADE_CHARM">Ooohhhh. My masters would be impressed...&lt;page&gt;Rare it is for one to come to terms with their regrets so completely, yet you seem to have managed it.&lt;page&gt;What darkness must one wade through to achieve such a thing?</entry>
+<entry name="FOG_CANYON">Yes, I can see the regrets you&#39;ve left behind. A dark stain lost in the fog of a strange land.</entry>
+<entry name="DECLINE">Oh? Well, if you have no desire to reconcile with your regrets, I can not help you.</entry>
+<entry name="OUTSKIRTS">Yes, I can see the regrets you&#39;ve left behind. A dark stain far way at the very edge of the world.</entry>
+<entry name="COLOSSEUM">Yes, I can see the regrets you&#39;ve left behind. A dark stain surrounded by warriors and fools.</entry>
+<entry name="SHADE_OFFER_INTRO">As a service, I can return your regrets to you, so they can be dealt with. You want that, yes?&lt;page&gt;Ah, but I am very hungry. Perhaps you&#39;d be willing to part with a little of your food? Sleep for as long as I have and you build up quite the appetite.</entry>
+<entry name="RITUAL_REPEAT">Farewell. I will think of you as I savour my meal.</entry>
+<entry name="MINES">Yes, I can see the regrets you&#39;ve left behind. A dark stain almost hidden by the glow of shimmering crystals around it.</entry>
+<entry name="NO_EGGS_REPEAT">The food I like... it&#39;s soft and round and bursts delightfully in your mouth. The smell it emits... just thinking about is getting me excited. It truly is the most sumptuous thing in the world. </entry>
+<entry name="NOSHADE_REPEAT">You seem to be free of regret. You don&#39;t need the services of one such as I. Farewell.</entry>
+<entry name="CLIFFS">Yes, I can see the regrets you&#39;ve left behind. A dark stain high above us, surrounded by howling winds.</entry>
+<entry name="GREEN_PATH">Yes, I can see the regrets you&#39;ve left behind. A dark stain in a lush, green land.</entry>
+<entry name="LOST_SHADE">Yes, I can see the regrets you&#39;ve left behind. A black stain hidden away in the darkness below us.</entry>
+<entry name="NO_EGGS">Hmm, but you don&#39;t have any food on you. At least nothing that interests me. I can&#39;t perform on an empty stomach, so please return once you&#39;ve found something truly tasty... something nourishing.</entry>
+<entry name="NOSHADE">Ah, you don&#39;t appear to have any lingering regrets. How lucky for you. You don&#39;t need the services of one such as I.</entry>
+<entry name="ROYAL_GARDENS">Yes, I can see the regrets you&#39;ve left behind. A dark stain, marring a garden&#39;s beauty.</entry>
+<entry name="DREAM">How long I must have slept. This land is so much darker now, so thick with the stains of regret.&lt;page&gt;Even the air is murkier. If I sleep again, will the darkness creep in here and swallow me whole?</entry>
+<entry name="DEEPNEST">Yes, I can see the regrets you&#39;ve left behind. A dark stain, barely visible in the tunnels of a nest deep below this kingdom.</entry>
+<entry name="CROSSROADS">Yes, I can see the regrets you&#39;ve left behind. A dark stain just below us, lost amongst the kingdom&#39;s twisting roads and highways.</entry>
+<entry name="MEET1">Welcome, small intruder. I&#39;ve been sound asleep in here for some time...Some, time?&lt;page&gt;Ah. Yes. Yes. Well now you&#39;ve gone and woken me up. It&#39;s no matter, I suppose. I might even be able to help you.</entry>
+<entry name="MEET2">I am Jiji, and if you have found your way into my chamber you must need my help.&lt;page&gt;You see, sometimes we leave our regrets behind in the world, like black stains.&lt;page&gt;If we don&#39;t deal with these regrets, hope starts to drain from us.&lt;page&gt;Do you have regrets of your own, little one? Let me peer into you for a moment...</entry>
+<entry name="WASTES">Yes, I can see the regrets you&#39;ve left behind. A dark stain nestled amongst strange fungus and bubbling lakes.</entry>
+<entry name="CITY">Yes, I can see the regrets you&#39;ve left behind. A dark stain in the heart of the kingdom&#39;s capital. Rain can not wash it away.</entry>
+<entry name="GREET">Ah, hello again. How have you been faring? Have you come to me because of your regrets? Let me peer into you...</entry>
+<entry name="QUEENS_STATION">Yes, I can see the regrets you&#39;ve left behind. A dark stain sitting alone in the Queen&#39;s Station.</entry>
+<entry name="RESTING_GROUNDS">Yes, I can see the regrets you&#39;ve left behind. A dark stain in a holy place of repose.</entry>
+<entry name="RITUAL_BEGIN">Mmmm... I will enjoy this morsel tremendously. Now, as promised, we will begin the ritual.</entry>
+<entry name="RITUAL_COMPLETED">Ah, you seem to have made peace with your regrets in a most novel, and dare I say brutal, fashion. What a joy to behold. Farewell for now. I will think of you as I savour my meal.</entry>
+</entries>

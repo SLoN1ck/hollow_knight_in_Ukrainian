@@ -1,0 +1,30 @@
+<entries>
+<entry name="NAILSMITH_NOT_ENOUGH_GEO">Ah, you don&#39;t have the Geo? Come and see me when you do.</entry>
+<entry name="MODELLING">We&#39;re building a full suite of the Kingdom&#39;s Knights. In their time, I barely ever paid them attention, but Sheo keenly remembers each.&lt;page&gt;It&#39;s so refreshing. Nothing like the crude practice of Nailwork. I just love all the intricate details.</entry>
+<entry name="PAINTED">I&#39;m afraid I can&#39;t speak at length. If I move too much, Sheo&#39;s masterwork will be ruined and I&#39;d hate to see him upset.&lt;page&gt;Though he may seem imposing, in truth he&#39;s a delicate sort.</entry>
+<entry name="NAILSMITH_DREAM_CLIFF">My life&#39;s work achieved... What more is left...?</entry>
+<entry name="NAILSMITH_ACCEPT">As you wish. I&#39;ll get to work then.</entry>
+<entry name="NAILSMITH_GREET">Hmm? Oh, you&#39;ve returned.</entry>
+<entry name="ART_MEET">Hmm? Oh, hello traveller. How strange that we should meet again in a world as vast as this.&lt;page&gt;I must thank you for not killing me when I asked you to. I was irritated at first, but I had some time to think up there and I soon saw the wisdom in your decision.&lt;page&gt;The world is made of more than metal and weapons. I set out exploring, and soon found my way here.&lt;page&gt;Sheo is a master of many arts, and has promised to teach me what he can. I think I&#39;ll be quite happy here.</entry>
+<entry name="ART_DREAM">....An age spent toiling alone... this is much nicer...</entry>
+<entry name="NAILSMITH_MEET_1">Have you brought me another nail to be honed? Leave it on the ground and return later, if you&#39;re still breathing.</entry>
+<entry name="NAILSMITH_MEET_2">Hmm?&lt;page&gt;Oh. I thought you were someone else.</entry>
+<entry name="NAILSMITH_MEET_3">After a Nailsmith are you? Well you&#39;ve found one. I&#39;m not much for talk, but if its a nail that needs repair then you&#39;ve come to the right bug.&lt;page&gt;Your own nail is in quite a sorry state. It&#39;s obviously not one of mine. Still, anything can be refined with enough effort and skill, even that broken blade.</entry>
+<entry name="NAILSMITH_KILL_REPEAT">Do not hesitate. I beg you. Cut me down! I want to taste that blade&#39;s exquisite edge.</entry>
+<entry name="NAILSMITH_OFFER_ORE">I see you have some Pale Ore. A rare, fine metal, that. Give me the ore and some Geo for my efforts, and I&#39;ll reforge your nail to make it stronger.</entry>
+<entry name="NAILSMITH_REGREET">Hmm? You&#39;re still here. Is there something else you want?</entry>
+<entry name="NAILSMITH_OFFER">If you&#39;d like, I can reforge your nail. It&#39;ll make the blade far more deadly.</entry>
+<entry name="NAILSMITH_KILL">With a Pure Nail forged, my work in this lifetime comes to an end. My only remaining desire is to see and feel the nail strike true!&lt;page&gt;I beg you, cut me down. As my final moment in life, I want to taste the blade&#39;s exquisite edge.&lt;page&gt;After all this time, all this toil... haven&#39;t I earned it?</entry>
+<entry name="NAILSMITH_SIGN">Unused</entry>
+<entry name="MODELLING_REPEAT">This is fabulous. I&#39;d never have believed my claws capable of such deft construction.</entry>
+<entry name="NAILSMITH_DECLINE">You&#39;re not interested, then? Suit yourself.</entry>
+<entry name="NAILSMITH_COMPLETE_1">There we go. The reforging is complete.&lt;page&gt;I&#39;ve honed your nail&#39;s edge. You&#39;ll find it much stronger than it used to be.&lt;page&gt;Head out there and test its strength against your foes.</entry>
+<entry name="NAILSMITH_COMPLETE_2">There we go. The reforging is complete.&lt;page&gt;I&#39;ve added a channel to your nail. It should cut much more efficiently. You&#39;ll find it stronger than it used to be.&lt;page&gt;Head out there and test its blade against your foes.</entry>
+<entry name="NAILSMITH_COMPLETE_3">Here we are. The reforging is complete.&lt;page&gt;I&#39;ve modified the nail to spiral form. A very tricky task it was. You&#39;ll find it stronger than ever before.&lt;page&gt;Off you go now. Cut your way forward.</entry>
+<entry name="NAILSMITH_COMPLETE_4">It&#39;s done. The reforging is done.&lt;page&gt;Your nail is much stronger than it used to be. As strong as it could ever be.&lt;page&gt;In only your weapon have I seen such potential. Finally, I behold the majesty of a Pure Nail. &lt;page&gt;To think this moment has come upon me so soon...&lt;page&gt;...I... I must step outside a moment...</entry>
+<entry name="NAILSMITH_DREAM_INTERIOR">...To forge the perfect Nail...</entry>
+<entry name="PAINTED_REPEAT">In all the dark of Hallownest, who&#39;d have thought I&#39;d meet such an inspiring soul.</entry>
+<entry name="NAILSMITH_NEED_ORE1">If you bring me a piece of Pale Ore, I can forge it into your nail and make it stronger still.</entry>
+<entry name="NAILSMITH_NEED_ORE2">If you bring me two pieces of Pale Ore, I can forge it into your nail and make it stronger still.</entry>
+<entry name="NAILSMITH_NEED_ORE3">If you bring me three pieces of Pale Ore, I can forge it into your nail and make it stronger still.</entry>
+</entries>

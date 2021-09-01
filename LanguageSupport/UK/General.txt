@@ -1,0 +1,15 @@
+<entries>
+<entry name="PROLOGUE_EXCERPT_04">A world you gave to bug and beast as they had never dreamed.</entry>
+<entry name="PRE_MENU_QUOTE">Getting lost and finding your way again is a pleasure like no other.</entry>
+<entry name="SAVE_WARNING">This game saves data automatically at certain points.&lt;br&gt; Please do not turn off the software while this symbol is displayed.</entry>
+<entry name="CONTROL_PROMPT">use of a controller is highly recommended</entry>
+<entry name="GAME_DISPLAY_TITLE"></entry>
+<entry name="PROLOGUE_EXCERPT_AUTHOR">- From &#39;Elegy for Hallownest&#39; by Monomon the Teacher </entry>
+<entry name="VERSION_NUMBER">- - -</entry>
+<entry name="PROLOGUE_EXCERPT_01">In wilds beyond they speak your name with reverence and regret,</entry>
+<entry name="PROLOGUE_EXCERPT_02">For none could tame our savage souls yet you the challenge met,</entry>
+<entry name="PROLOGUE_EXCERPT_03">Under palest watch, you taught, we changed, base instincts were redeemed,</entry>
+<entry name="GAME_TITLE">Hollow Knight</entry>
+<entry name="PRE_MENU_QUOTE_AUTHOR">- Cornifer</entry>
+<entry name="SNEAK_PEEK">This Sneak Peek is taken from an unfinished build of Hollow Knight and does not represent final performance.</entry>
+</entries>

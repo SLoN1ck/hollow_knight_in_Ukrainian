@@ -7,7 +7,7 @@ Ukrainian translation for the Hollow Knight game via Language Support mode (http
 
 **Відеоінструкція (Youtube):**
 
-[![logo_concept4_small](https://user-images.githubusercontent.com/6781574/131629290-f09841b9-3006-421c-9549-11b624547dc3.png)](https://www.youtube.com/channel/UCR9EAcJVP73xR3DjAUnvIlw)
+[![logo_concept4_small](https://user-images.githubusercontent.com/6781574/131629290-f09841b9-3006-421c-9549-11b624547dc3.png)](https://www.youtube.com/watch?v=koQvD7k7eYc)
 
 **Наразі перекладені наступні розділи (переклад оновлюється та доповнюється) :**
 - Головне меню

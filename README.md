@@ -1,5 +1,6 @@
 # Hollow Knight in Ukrainian / Hollow Knight Українською
 Ukrainian translation for the Hollow Knight game via Language Support mode (https://github.com/SFGrenade/LanguageSupport) 
+
 Український переклад гри Hollow Knight за допомогою моду Language Support (https://github.com/SFGrenade/LanguageSupport) 
 
 ![promo](https://user-images.githubusercontent.com/6781574/131626755-3d2c92fb-d685-4bf3-9a70-cb21e61ef528.jpg)

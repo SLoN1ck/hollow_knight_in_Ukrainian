@@ -1,15 +1,15 @@
 <entries>
-<entry name="PROLOGUE_EXCERPT_04">A world you gave to bug and beast as they had never dreamed.</entry>
-<entry name="PRE_MENU_QUOTE">Getting lost and finding your way again is a pleasure like no other.</entry>
-<entry name="SAVE_WARNING">This game saves data automatically at certain points.&lt;br&gt; Please do not turn off the software while this symbol is displayed.</entry>
-<entry name="CONTROL_PROMPT">use of a controller is highly recommended</entry>
-<entry name="GAME_DISPLAY_TITLE"></entry>
-<entry name="PROLOGUE_EXCERPT_AUTHOR">- From &#39;Elegy for Hallownest&#39; by Monomon the Teacher </entry>
+<entry name="PROLOGUE_EXCERPT_04">Комасі й звіру дарував дотіль немріяний сей світ.</entry>
+<entry name="PRE_MENU_QUOTE">Заблукати та знову знайти свій шлях — ні з чим не зрівняне задоволення.</entry>
+<entry name="SAVE_WARNING">Гра автоматично зберігається у певних моментах.&lt;br&gt; Будь ласка, не вимикайте гру, коли відображається ця позначка.</entry>
+<entry name="CONTROL_PROMPT">настійно радимо користуватися ґеймпадом</entry>
+<entry name="GAME_DISPLAY_TITLE"> </entry>
+<entry name="PROLOGUE_EXCERPT_AUTHOR">- З «Елегії Святогніздя» Мономони Навчительки</entry>
 <entry name="VERSION_NUMBER">- - -</entry>
-<entry name="PROLOGUE_EXCERPT_01">In wilds beyond they speak your name with reverence and regret,</entry>
-<entry name="PROLOGUE_EXCERPT_02">For none could tame our savage souls yet you the challenge met,</entry>
-<entry name="PROLOGUE_EXCERPT_03">Under palest watch, you taught, we changed, base instincts were redeemed,</entry>
+<entry name="PROLOGUE_EXCERPT_01">Шепочуть з трепетом й жалем ім’я твоє у дикій глушині,</entry>
+<entry name="PROLOGUE_EXCERPT_02">Адже приборкать дикість наших душ вдалось лишень тобі.</entry>
+<entry name="PROLOGUE_EXCERPT_03">Під мудрим наглядом твоїм змінились ми, змінивсь наш рід —</entry>
 <entry name="GAME_TITLE">Hollow Knight</entry>
-<entry name="PRE_MENU_QUOTE_AUTHOR">- Cornifer</entry>
-<entry name="SNEAK_PEEK">This Sneak Peek is taken from an unfinished build of Hollow Knight and does not represent final performance.</entry>
+<entry name="PRE_MENU_QUOTE_AUTHOR">— Корніфер</entry>
+<entry name="SNEAK_PEEK">Цей вступний ролик прибраний з незавершеної збірки Hollow Knight і відсутній в останній редакції.</entry>
 </entries>

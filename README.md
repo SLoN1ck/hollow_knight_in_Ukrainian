@@ -3,10 +3,13 @@ Ukrainian translation for the Hollow Knight game via Language Support mode (http
 
 Український переклад гри Hollow Knight за допомогою моду Language Support (https://github.com/SFGrenade/LanguageSupport) 
 
+Увага! Вже незабаром планується вихід повноцінної локалізації з пофікшеними шрифтами (спосіб описаний в цьому проекті не відображає літери ї, ґ та подекуди і). 
+[Підписуйтесь на канал Гайда](https://www.youtube.com/watch?v=koQvD7k7eYc), та чекайте оновлень! 
+
 ![promo](https://user-images.githubusercontent.com/6781574/131626755-3d2c92fb-d685-4bf3-9a70-cb21e61ef528.jpg)
 
 **Наразі перекладені наступні розділи (переклад оновлюється та доповнюється) :**
-- Головне меню
+- Перекладено майже все, за винятком доповнень, деяких NPC та повідомлень від бакерів (повний обсяг перекладу 75%)
 
 Для оновлення перекладу повторіть пункти 5-7 з [інструкції по встановленню](https://github.com/SLoN1ck/hollow_knight_in_Ukrainian/blob/main/README.md#%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D1%96%D1%8F-%D0%BF%D0%BE-%D0%B2%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8E-steam), наведеної нижче
 
